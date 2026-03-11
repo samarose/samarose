@@ -1,46 +1,60 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&color=FF69B4&lines=Hey%2C+I'm+samarose!+👋🏻;Web+Developer)](https://github.com/)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=FF69B4&center=true&vCenter=true&width=700&lines=Hi+👋,+I'm+samarose;💻+Web+Developer;🌐+Building+creative+web+projects)](https://git.io/typing-svg)
 
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/c4defa45-1003-49cb-bc16-a9b52b96d144" alt="MasterHead" style="width: 100%; max-width: 1000px; height: auto;" align="centre" />
-</div> 
-
----
-
-## 🩷 About me:
-<div>
-  <img src="https://github.com/user-attachments/assets/fa24e52c-4953-4f1a-9087-d4e4fc5b7f17" alt="MasterHead" width=20% align="right"/>
-  
-  💻 I'm a **Web Developer** <br>
-  
-  🌐 I specialize in **HTML, CSS, JavaScript, and Python** <br>
-  
-  📚 Currently learning **C++ and Java** <br>
-  
-  🌍 I speak **Arabic, French, and English** <br>
-  
-  📖 Currently learning **Spanish** <br>
-  
-  ☁️ Passionate about **web development and building creative projects** <br>
-</div> 
-
----
-
-## 🎧 Technologies and Tools:
-<p align="left">
-  <a>
-    <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,git,github,vscode&theme=dark&perline=16" />
-  </a>
+<p align="center">
+  <img src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/601014116770475.6068beff4640a.gif" width="450" alt="coding">
 </p>
 
 ---
 
-## 💭 Languages and Stats:
-
-![](https://github-readme-stats.vercel.app/api?username=samarose&theme=buefy&hide_border=true&show_icons=true) 
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarose&theme=buefy&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+# 👩‍💻 About Me
+- 💻 I'm a **Web Developer**  
+- 🌐 Skilled in **HTML, CSS, JavaScript & Python**  
+- 🚀 Currently learning **C++ & Java**  
+- 🌍 Languages: **Arabic, French & English**  
+- 📖 Currently learning **Spanish**  
+- ☁️ Passionate about **building creative projects and learning new technologies**  
+- 🎮 Enjoy **strategic thinking** by playing chess  
 
 ---
 
-## 👀 Profile Visits
-[![](https://visitcount.itsvg.in/api?id=samarose&icon=7&color=10)](https://visitcount.itsvg.in)
+# 🛠️ Tech Stack
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,react,nodejs,git,github,vscode&theme=dark&perline=16"/>
+</p>
+
+---
+
+# 📊 GitHub Stats
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=samarose&show_icons=true&theme=radical&count_private=true" width="45%">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samarose&layout=compact&theme=radical&hide=tex" width="45%">
+</p>
+
+---
+
+# 🔥 GitHub Activity
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=samarose&theme=react-dark&area=true" width="90%">
+</p>
+
+---
+
+# 🪙 Badges
+<p align="center">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/1.png" width="80">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/2.png" width="80">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/3.png" width="80">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/4.png" width="80">
+<img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/5.png" width="80">
+</p>
+
+---
+
+# 👀 Profile Visitors
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=samarose&label=Profile+views&color=FF69B4&style=flat">
+</p>
+
+---
+
+⭐ **Thanks for visiting my profile! Let's build something amazing together!**
